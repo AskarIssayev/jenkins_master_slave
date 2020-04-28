@@ -1,1 +1,1 @@
-# jenkins_master_slave
+# myapp-jenkins
